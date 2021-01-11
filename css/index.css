@@ -65,6 +65,7 @@ body{
 .skills > li,
 .hobbies > li{
   width: 15%;
+  text-align: center;
   padding: 1em;
   background-color: white;
   margin: 2em;
